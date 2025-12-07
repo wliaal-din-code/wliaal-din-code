@@ -27,8 +27,7 @@ I am a freelance programmer experienced in building robust desktop systems for s
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wliaal-din-code&show_icons=true&theme=radical&hide_border=true" alt="Wali al-Din's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wliaal-din-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=wliaal-din-code&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
